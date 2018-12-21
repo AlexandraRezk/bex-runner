@@ -5,6 +5,18 @@ body{
     font-family: myriad pro;
     
 }
+a{
+    color: white;
+}
+
+a:hover{
+    color: blue;
+}
+
+
+a:visited{
+    color:white;
+}
 
 .directions{
     text-decoration: none;
